@@ -1,8 +1,4 @@
-# Fresstempel
-
-----
-
-## Frühstück
+# Frühstück
 ### Berlin
 * ? [BALKAYMAK SIMIT EVI](https://www.balkaymaksimitevi.de/){:target="_blank"}, ab 9:00 Uhr, Gneisenaustrasse 3, Berlin
 * ? [Benedict Breakfast](https://benedict-breakfast.de/pages/our-menu){:target="_blank"}, ab 8:30 Uhr , Uhlandstraße 49
@@ -19,7 +15,7 @@
 
 ***
 
-## später
+# später
 ### Berlin
 * ??? [Alte Münze](https://alte-muenze-berlin.de/actor/thegreens/){:target="_blank"}, Molkenmarkt 2, Mitte
 * ??? [Alte Turnhalle](https://www.alte-turnhalle-berlin.de/){:target="_blank"}, Holteistraße 6-9, Friedrichshain
@@ -69,14 +65,14 @@
 
 ***
 
-## Für die fabelhaften, aber gottlosen Heimkocher mit tropfenden Zähnen, die es gerade nicht in einen Tempel schaffen
+# Für die fabelhaften, aber gottlosen Heimkocher mit tropfenden Zähnen, die es gerade nicht in einen Tempel schaffen
 * [Splendido Magazin](https://splendido-magazin.de/index/gerichte){:target="_blank"}
 * [Giallo Zafferano](https://www.giallozafferano.it/){:target="_blank"}
 * [Barilla Rezepte](https://www.barilla.com/de-de/search/rezepte?sort=relevance&page=1){:target="_blank"}
 
 ***
 
-## Bars
+# Bars
 ### Berlin
 * Fasanen 47, Fasanenstraße 47, Wilmersdorf
 * [Voima](http://www.voima.de/){:target="_blank"}, Winterfeldtstraße 22, Schöneberg
@@ -86,6 +82,6 @@
 
 ***
 
-## Sonstiges
+# Sonstiges
 * Modern Graphics, Oraninstraße 22, Kreuzberg
 * Otherland, Bergmannstraße 25, Kreuzberg
