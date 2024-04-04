@@ -24,11 +24,13 @@
 * ??? [Bistro "Spreedeck"](https://spreeschiffe.de/spreedeck/){:target="_blank"}, Märkisches Ufer 1, Mitte, eher für den nächsen Sommer
 * [Buchkantine](https://buchkantine.de/){:target="_blank"}, Dortmunder Str. 1, 10555 Berlin
 * [Cafe Finovo](http://www.cafe-finovo.de/){:target="_blank"}, Alter St.-Matthäus-Kirchhof, Großgörschenstr. 12-14, 10 829 Berlin
-* [Fam Dang](https://www.gastro-now.com/famdang){:target="_blank"}, Torstraße 125, 10119 Berlin, sind das die aus der Huttenstraße?
+* [Fam Dang](https://www.gastro-now.com/famdang){:target="_blank"}, Torstraße 125, 10119 Berlin, das sind die aus der Huttenstraße
 * ? [Kramer Restaurant](https://kramerberlin.com/){:target="_blank"}, Pannierstraße 41, Neukölln
 * ? [Masselli Ristorante](https://maselliristorante.weebly.com/){:target="_blank"}, Nositzstraße 49, Kreuzberg
 * ? [Mibap](https://mibap.berlin/en){:target="_blank"}, Torstraße 22, Prenzlauer Berg
 * ? [Obermaier](https://www.obermaier-kreuzberg.de/){:target="_blank"}, Erkelenzdamm 17, Kreuzberg
+* ? [Osteria Ribaltone](http://www.ribaltone.de){:target="_blank"}, Motzstraße 54, 10777 Berlin, Telefon:	030 2143655
+* ? [Ristorante Poveracci](https://www.ristorantepoveracci.com){:target="_blank"},Torstraße 175, 10115 Berlin, poveracci sind vermutlich wir nach Speis und Trank
 * [Salhino](https://www.salhino.de/){:target="_blank"}, Waitzstraße 1, 10629 Berlin-Charlottenburg
 * ? [Sara & Gogi](https://sara-gogi.de){:target="_blank"}, Suarezstr. 20, Charlottenburg
 * [Schnitzelei](https://www.schnitzelei.de/){:target="_blank"}, Charlottenburg\|Mitte\|Wilmersdorf
@@ -38,6 +40,7 @@
 * ? [Zum heiligen Teufel](https://zumheiligenteufel.de/){:target="_blank"}, Muskauer Straße 9, Kreuzberg, falls man in der Nähe ist, erstmal angucken
 
 ### Potsdam
+* [11Line](https://11-line.de/){:target="_blank"},Charlottenstraße 119, 14467 Potsdam, +49 1520 9470803
 * [Al Dente](https://al-dente-potsdam.de){:target="_blank"}, Alt Nowawes 34, 14482 Potsdam
 * [Alexandrowka 1](https://www.alexandrowka-haus1.de){:target="_blank"}, Russische Kolonie 1, 14469 Potsdam
 * [Cafe Matschke](https://www.matschkes-galeriecafe.de){:target="_blank"}, Alleestr. 10, 14469 Potsdam
@@ -59,6 +62,12 @@
 * [Taverna To Steki](https://taverna-tosteki.de/){:target="_blank"}, Gutenbergstr. 33, 14467 Potsdam
 * [Tou Bakali](https://www.bakaliko-potsdam.de){:target="_blank"}, Dortustraße 5, 14467 Potsdam
 * Zur Linde, Lindenstraße 18, 14467 Potsdam
+
+## Für die fabelhaften, aber gottlosen Heimkocher mit tropfenden Zähnen, die es gerade nicht in einen Tempel schaffen
+* [Splendido Magazin](https://splendido-magazin.de/index/gerichte){:target="_blank"}
+* [Giallo Zafferano](https://www.giallozafferano.it/){:target="_blank"}
+* [Barilla Rezepte](https://www.barilla.com/de-de/search/rezepte?sort=relevance&page=1){:target="_blank"}
+
 
 
 ## Bars
