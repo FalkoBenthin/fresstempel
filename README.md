@@ -1,7 +1,5 @@
 # Fresstempel
 
----<br><br>
-
 ----
 
 ## Frühstück
@@ -19,8 +17,7 @@
 * [Havelbohne](https://havelbohne.de/){:target="_blank"}, Lindenstraße 57, 14467 Potsdam
 * [Kaffee Einstein](https://einsteinkaffee-bistropotsdam.de/){:target="_blank"}, Kurfürstenstraße 12, 14467 Potsdam
 
-***<br><br>
-
+***
 
 ## später
 ### Berlin
@@ -70,16 +67,14 @@
 * [Tou Bakali](https://www.bakaliko-potsdam.de){:target="_blank"}, Dortustraße 5, 14467 Potsdam
 * Zur Linde, Lindenstraße 18, 14467 Potsdam
 
-***<br><br>
-
+***
 
 ## Für die fabelhaften, aber gottlosen Heimkocher mit tropfenden Zähnen, die es gerade nicht in einen Tempel schaffen
 * [Splendido Magazin](https://splendido-magazin.de/index/gerichte){:target="_blank"}
 * [Giallo Zafferano](https://www.giallozafferano.it/){:target="_blank"}
 * [Barilla Rezepte](https://www.barilla.com/de-de/search/rezepte?sort=relevance&page=1){:target="_blank"}
 
-***<br><br>
-
+***
 
 ## Bars
 ### Berlin
@@ -89,8 +84,7 @@
 * [Bar-o-Meter](https://barometer.eatbu.com/?lang=de){:target="_blank"}, Gutenbergstraße 103, 14467 Potsdam
 * [Downtown](https://downtown-potsdam.de/){:target="_blank"}, Dortustrasse 8, 14467 Potsdam 
 
-***<br><br>
-
+***
 
 ## Sonstiges
 * Modern Graphics, Oraninstraße 22, Kreuzberg
