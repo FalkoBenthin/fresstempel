@@ -75,6 +75,7 @@
 # Bars
 ### Berlin
 * Fasanen 47, Fasanenstraße 47, Wilmersdorf
+* [So 'ne ART SALON](https://www.soneartsalon.berlin/){:target="_blank"}, Bundesallee 83,  12161 Berlin-Friedenau, Telephon   0178 696 58 67   /   Email   bureau@soneArtSalon.berlin
 * [Voima](http://www.voima.de/){:target="_blank"}, Winterfeldtstraße 22, Schöneberg
 ### Potsdam
 * [Bar-o-Meter](https://barometer.eatbu.com/?lang=de){:target="_blank"}, Gutenbergstraße 103, 14467 Potsdam
