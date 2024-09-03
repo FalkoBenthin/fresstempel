@@ -1,7 +1,7 @@
 # Frühstück
 ### Berlin
 * ? [BALKAYMAK SIMIT EVI](https://www.balkaymaksimitevi.de/){:target="_blank"}, ab 9:00 Uhr, Gneisenaustrasse 3, Berlin
-* ? [Benedict Breakfast](https://benedict-breakfast.de/pages/our-menu){:target="_blank"}, ab 8:30 Uhr , Uhlandstraße 49
+* [Benedict Breakfast](https://benedict-breakfast.de/pages/our-menu){:target="_blank"}, ab 8:30 Uhr , Uhlandstraße 49, Frühstück ok, aber relativ hektisch, laut und teuer
 * ? [Cafe Ana Blume](https://cafe-anna-blume.de/){:target="_blank"}, ab 8:00 Uhr, Kollwitzstraße 83, Prenzlauer Berg
 * [cafe Bilderbuch](https://www.cafe-bilderbuch.de/){:target="_blank"}, ab 9:00 Uhr, Akazienstr. 28, 10823 Berlin
 * [Cafe Butter](https://www.cafe-butter.de/){:target="_blank"}, ab 9:00 Uhr, Pappelallee 73, 10437 Berlin
