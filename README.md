@@ -51,7 +51,7 @@
 * [Herr Dang](http://www.herr-dang.de/#/){:target="_blank"}, Brandenburger Straße 16, 14467 Potsdam 
 * [Kades](http://restaurant-pfingstberg.de){:target="_blank"}, Große Weinmeisterstrasse 43b, 14469 Potsdam
 * La Leander, Benkertstraße 1, Potsdam, hatten früher cooles Abendbrot, checken, ob es das noch gibt
-* [La Strada](https://la-strada-potsdam.de/){:target="_blank"}, Karl-Liebknecht-Straße 133, 14482 Potsdam
+* ~~[La Strada](https://la-strada-potsdam.de/){:target="_blank"}, Karl-Liebknecht-Straße 133, 14482 Potsdam~~
 * [Loft](https://loft-potsdam.de/){:target="_blank"}, Brandenburger Str. 30- 31, 14467 Potsdam
 * [Masala Haus](https://www.masala-haus.de/){:target="_blank"}, Lindenstr. 65, 14467 Potsdam
 * [Noi Due](https://noidue.de/){:target="_blank"}, Lindenstraße 6, 14467, Potsdam
