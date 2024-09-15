@@ -25,7 +25,10 @@
 * [Buchkantine](https://buchkantine.de/){:target="_blank"}, Dortmunder Str. 1, 10555 Berlin
 * [Cafe Finovo](http://www.cafe-finovo.de/){:target="_blank"}, Alter St.-Matthäus-Kirchhof, Großgörschenstr. 12-14, 10 829 Berlin
 * [Fam Dang](https://www.gastro-now.com/famdang){:target="_blank"}, Torstraße 125, 10119 Berlin, das sind die aus der Huttenstraße
+* ? [Gazzo Pizza](https://de.gazzopizza.com/){:target="_blank"}, Hobrechtstrasse 57, 12047 Berlin, 03098370104
 * ? [Kramer Restaurant](https://kramerberlin.com/){:target="_blank"}, Pannierstraße 41, Neukölln
+* ? [Magic John's](https://www.magicjohns.com{:target="_blank"}, Oranienburger Str. 48,  10117  Berlin
+* ? [MAngiare Pizza](https://arminiusmarkthalle.com/marktstaende/mangiare-berlin/){:target="_blank"}, Arminiusstraße 2-4, 10551 Berlin, 0152 14493604
 * ? [Masselli Ristorante](https://maselliristorante.weebly.com/){:target="_blank"}, Nositzstraße 49, Kreuzberg
 * ? [Mibap](https://mibap.berlin/en){:target="_blank"}, Torstraße 22, Prenzlauer Berg
 * ? [Obermaier](https://www.obermaier-kreuzberg.de/){:target="_blank"}, Erkelenzdamm 17, Kreuzberg
@@ -36,6 +39,11 @@
 * [Schnitzelei](https://www.schnitzelei.de/){:target="_blank"}, Charlottenburg\|Mitte\|Wilmersdorf
 * [Schwiliko](http://www.schwiliko-berlin.de/){:target="_blank"}, Schlesische Str. 29, 10997 Berlin
 * ? [Sironi - La Pizza](https://sironi.de/){:target="_blank"}, Goltzstraße 36, Schöneberg
+* ? [Standard - SeRiOUs Pizza -](https://www.standard-berlin.de/({:target="_blank"}
+  * Prenzlauer Berg, templinerstrasse 7, 10119 berlin, 030 / 48625614
+  * Mitte, torstraße 102, 10119 berlin, 030 / 24631704
+  * Charlottenburg,  schlÜterstraße 63, 10625 berlin, 030 / 32764310
+  * Kreuzberg, Prinzenstraße 89, 10969 berlin, 030 / 39916790
 * ? [Trio](https://trioberlin.webflow.io/){:target="_blank"}, Linienstraße 13, Mitte, sehr rudimentäre Webseite
 * ? [Zum heiligen Teufel](https://zumheiligenteufel.de/){:target="_blank"}, Muskauer Straße 9, Kreuzberg, falls man in der Nähe ist, erstmal angucken
 
