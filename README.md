@@ -39,7 +39,7 @@
 * [Schnitzelei](https://www.schnitzelei.de/){:target="_blank"}, Charlottenburg\|Mitte\|Wilmersdorf
 * [Schwiliko](http://www.schwiliko-berlin.de/){:target="_blank"}, Schlesische Str. 29, 10997 Berlin
 * ? [Sironi - La Pizza](https://sironi.de/){:target="_blank"}, Goltzstraße 36, Schöneberg
-* ? [Standard - SeRiOUs Pizza -](https://www.standard-berlin.de/({:target="_blank"}
+* ? [Standard - SeRiOUs Pizza -](https://www.standard-berlin.de/){:target="_blank"}
   * Prenzlauer Berg, templinerstrasse 7, 10119 berlin, 030 / 48625614
   * Mitte, torstraße 102, 10119 berlin, 030 / 24631704
   * Charlottenburg,  schlÜterstraße 63, 10625 berlin, 030 / 32764310
