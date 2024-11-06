@@ -12,6 +12,7 @@
 ### Potsdam
 * [Havelbohne](https://havelbohne.de/){:target="_blank"}, Lindenstraße 57, 14467 Potsdam
 * [Kaffee Einstein](https://einsteinkaffee-bistropotsdam.de/){:target="_blank"}, Kurfürstenstraße 12, 14467 Potsdam
+* ? [Das Wiener](https://wiener-potsdam.de/){:target="_blank"},Luisenplatz 4 · 14471 Potsdam, 0331 601 499 04
 
 ***
 
@@ -35,6 +36,7 @@
 * ? [Mibap](https://mibap.berlin/en){:target="_blank"}, Torstraße 22, Prenzlauer Berg
 * ? [Noosh](https://www.instagram.com/noosh_berlin/?hl=de){:target="_blank"}, Kantstraße 143, 10623 Berlin, 030 31999980 (http://www.noosh.berlin/)
 * ? [Obermaier](https://www.obermaier-kreuzberg.de/){:target="_blank"}, Erkelenzdamm 17, Kreuzberg
+* ? [Österelli](https://www.oesterelli.com/){:target="_blank"}, Bismarckstraße 6, 10625 Berlin, 030 46997566
 * ? [Osmans Töchter](https://osmanstoechter.de/){:target="_blank"}, Pappelallee 15, 10437 Berlin-Prenzlauer Berg, +49 (0)172 / 274 46 62
 * ? [Osteria Centrale](){:target="_blank"}, Bleibtreustraße 51, Charlottenburg, 030 31 01 32 63
 * ? [Osteria Ribaltone](http://www.ribaltone.de){:target="_blank"}, Motzstraße 54, 10777 Berlin, Telefon:	030 2143655
@@ -57,9 +59,11 @@
 * [11Line](https://11-line.de/){:target="_blank"},Charlottenstraße 119, 14467 Potsdam, +49 1520 9470803
 * [Al Dente](https://al-dente-potsdam.de){:target="_blank"}, Alt Nowawes 34, 14482 Potsdam
 * [Alexandrowka 1](https://www.alexandrowka-haus1.de){:target="_blank"}, Russische Kolonie 1, 14469 Potsdam
+* [Brasserie zu Gutenberg](https://www.brasserie-zu-gutenberg.de){:target="_blank"}, Jägerstrasse 10, 14467 Potsdam, 0331 / 74036878
 * [Cafe Matschke](https://www.matschkes-galeriecafe.de){:target="_blank"}, Alleestr. 10, 14469 Potsdam
 * [Craddock](https://www.craddock-potsdam.de/){:target="_blank"}, Dortustraße 7, 14467 Potsdam
 * [Creperie Potsdam](https://creperie-potsdam.de/){:target="_blank"}, Lindenstraße 9, 14467 Potsdam
+* ? [Das Wiener](https://wiener-potsdam.de/){:target="_blank"},Luisenplatz 4 · 14471 Potsdam, 0331 601 499 04
 * [De Lewante](http://delewante.de/){:target="_blank"}, Gutenbergstraße 103, 14467 Potsdam
 * [Hafthorn](https://www.hafthorn.de/index.htm){:target="_blank"}, Friedrich-Ebert-Straße 90, 14467 Potsdam
 * [Herr Dang](http://www.herr-dang.de/#/){:target="_blank"}, Brandenburger Straße 16, 14467 Potsdam 
@@ -67,8 +71,10 @@
 * La Leander, Benkertstraße 1, Potsdam, hatten früher cooles Abendbrot, checken, ob es das noch gibt
 * ~~[La Strada](https://la-strada-potsdam.de/){:target="_blank"}, Karl-Liebknecht-Straße 133, 14482 Potsdam~~
 * [Loft](https://loft-potsdam.de/){:target="_blank"}, Brandenburger Str. 30- 31, 14467 Potsdam
+* ? [L'Osteria Potsdam](https://losteria.net/de/restaurants/restaurant/potsdam/){:target="_blank"}, Otto-Braun-Platz 1, 14467 Potsdam, +49 331 60129800
 * [Masala Haus](https://www.masala-haus.de/){:target="_blank"}, Lindenstr. 65, 14467 Potsdam
 * [Noi Due](https://noidue.de/){:target="_blank"}, Lindenstraße 6, 14467, Potsdam
+* ? [Österelli](https://www.oesterelli.com/){:target="_blank"}, Friedrich-Ebert-Straße 37, 14469 Potsdam, 0331 23537826
 * ? [Osteria No. 1](https://www.osteria-n1.de){:target="_blank"}, Jute Str. 1, 14482 Potsdam
 * [Plantagenklause](http://www.plantagenklause.de/){:target="_blank"}, Rudolf-Breitscheid-Str. 85, 14482 Potsdam
 * ? [Restaurant Hiemke](https://www.restaurant-ottohiemke.de){:target="_blank"}, KARL-GRUHL-STR.55, 14482 POTSDAM
