@@ -21,17 +21,22 @@
 * ??? [Alte Turnhalle](https://www.alte-turnhalle-berlin.de/){:target="_blank"}, Holteistraße 6-9, Friedrichshain
 * ? [Anabelas Kitchen](https://www.anabelas-kitchen.de/){:target="_blank"}, Pestalozzistraße 3, Charlottenburg, Sehr rudimentäre Webseite
 * ? [Antonellos Cevicheria & Streetfood](https://www.cevicheriastreetfood.de/){:target="_blank"}, Nostitzstraße 22, Schöneberg
+* ? [Berta](https://www.bertarestaurant.com/){:target="_blank"}, STRESEMANNSTRAßE 99, 10963 BERLIN, +49 162 8861827
 * ??? [Bistro "Spreedeck"](https://spreeschiffe.de/spreedeck/){:target="_blank"}, Märkisches Ufer 1, Mitte, eher für den nächsen Sommer
 * [Buchkantine](https://buchkantine.de/){:target="_blank"}, Dortmunder Str. 1, 10555 Berlin
 * [Cafe Finovo](http://www.cafe-finovo.de/){:target="_blank"}, Alter St.-Matthäus-Kirchhof, Großgörschenstr. 12-14, 10 829 Berlin
 * [Fam Dang](https://www.gastro-now.com/famdang){:target="_blank"}, Torstraße 125, 10119 Berlin, das sind die aus der Huttenstraße
+* ? [RESTAURANT D.O.](https://www.do-restaurant.com){:target="_blank"}, Kollwitzstraße 88, 10435 Berlin, +49 (0)30 52103950
 * ? [Gazzo Pizza](https://de.gazzopizza.com/){:target="_blank"}, Hobrechtstrasse 57, 12047 Berlin, 03098370104
 * ? [Kramer Restaurant](https://kramerberlin.com/){:target="_blank"}, Pannierstraße 41, Neukölln
 * ? [Magic John's](https://www.magicjohns.com{:target="_blank"}, Oranienburger Str. 48,  10117  Berlin
 * ? [MAngiare Pizza](https://arminiusmarkthalle.com/marktstaende/mangiare-berlin/){:target="_blank"}, Arminiusstraße 2-4, 10551 Berlin, 0152 14493604
 * ? [Masselli Ristorante](https://maselliristorante.weebly.com/){:target="_blank"}, Nositzstraße 49, Kreuzberg
 * ? [Mibap](https://mibap.berlin/en){:target="_blank"}, Torstraße 22, Prenzlauer Berg
+* ? [Noosh](https://www.instagram.com/noosh_berlin/?hl=de){:target="_blank"}, Kantstraße 143, 10623 Berlin, 030 31999980 (http://www.noosh.berlin/)
 * ? [Obermaier](https://www.obermaier-kreuzberg.de/){:target="_blank"}, Erkelenzdamm 17, Kreuzberg
+* ? [Osmans Töchter](https://osmanstoechter.de/){:target="_blank"}, Pappelallee 15, 10437 Berlin-Prenzlauer Berg, +49 (0)172 / 274 46 62
+* ? [Osteria Centrale](){:target="_blank"}, Bleibtreustraße 51, Charlottenburg, 030 31 01 32 63
 * ? [Osteria Ribaltone](http://www.ribaltone.de){:target="_blank"}, Motzstraße 54, 10777 Berlin, Telefon:	030 2143655
 * ? [Ristorante Poveracci](https://www.ristorantepoveracci.com){:target="_blank"},Torstraße 175, 10115 Berlin, poveracci sind vermutlich wir nach Speis und Trank
 * [Salhino](https://www.salhino.de/){:target="_blank"}, Waitzstraße 1, 10629 Berlin-Charlottenburg
@@ -39,6 +44,7 @@
 * [Schnitzelei](https://www.schnitzelei.de/){:target="_blank"}, Charlottenburg\|Mitte\|Wilmersdorf
 * [Schwiliko](http://www.schwiliko-berlin.de/){:target="_blank"}, Schlesische Str. 29, 10997 Berlin
 * ? [Sironi - La Pizza](https://sironi.de/){:target="_blank"}, Goltzstraße 36, Schöneberg
+* ? [Smooches](https://www.instagram.com/smoochesinberlin/){:target="_blank"}, Reichenberger Straße 61a, Kreuzberg,
 * ? [Standard - SeRiOUs Pizza -](https://www.standard-berlin.de/){:target="_blank"}
   * Prenzlauer Berg, templinerstrasse 7, 10119 berlin, 030 / 48625614
   * Mitte, torstraße 102, 10119 berlin, 030 / 24631704
