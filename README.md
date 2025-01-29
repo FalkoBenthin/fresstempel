@@ -26,7 +26,7 @@
 * ??? [Bistro "Spreedeck"](https://spreeschiffe.de/spreedeck/){:target="_blank"}, Märkisches Ufer 1, Mitte, eher für den nächsen Sommer
 * [Buchkantine](https://buchkantine.de/){:target="_blank"}, Dortmunder Str. 1, 10555 Berlin
 * [Cafe Finovo](http://www.cafe-finovo.de/){:target="_blank"}, Alter St.-Matthäus-Kirchhof, Großgörschenstr. 12-14, 10 829 Berlin
-* ? [Comedor](https://www.comedor.berlin/){:target="_blank"}, Kantstr. 74, 10627 Berlin, ​+49 (0) 30 740 74549
+* (-) [Comedor](https://www.comedor.berlin/){:target="_blank"}, Kantstr. 74, 10627 Berlin, ​+49 (0) 30 740 74549, lecker und guter Service, aber wenig Essen für viel Geld
 * [Fam Dang](https://www.gastro-now.com/famdang){:target="_blank"}, Torstraße 125, 10119 Berlin, das sind die aus der Huttenstraße
 * ? [RESTAURANT D.O.](https://www.do-restaurant.com){:target="_blank"}, Kollwitzstraße 88, 10435 Berlin, +49 (0)30 52103950
 * ? [Gazzo Pizza](https://de.gazzopizza.com/){:target="_blank"}, Hobrechtstrasse 57, 12047 Berlin, 03098370104
