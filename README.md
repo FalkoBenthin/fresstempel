@@ -29,7 +29,9 @@
 * (-) [Comedor](https://www.comedor.berlin/){:target="_blank"}, Kantstr. 74, 10627 Berlin, ​+49 (0) 30 740 74549, lecker und guter Service, aber wenig Essen für viel Geld
 * [Fam Dang](https://www.gastro-now.com/famdang){:target="_blank"}, Torstraße 125, 10119 Berlin, das sind die aus der Huttenstraße
 * ? [RESTAURANT D.O.](https://www.do-restaurant.com){:target="_blank"}, Kollwitzstraße 88, 10435 Berlin, +49 (0)30 52103950
+* ? [Dolores Burritos](https://dolores-burritos.de/){:target="_blank"}, Bayreuther Str. 36 (Am Wittenbergplatz, Schöneberg), 10789 Berlin
 * ? [Gazzo Pizza](https://de.gazzopizza.com/){:target="_blank"}, Hobrechtstrasse 57, 12047 Berlin, 03098370104
+* ? [Jemenitisches Restautant Neukölln](https://www.jemenrestaurant.de/neukoelln/){:target="_blank"}, Kar-Marx-Str. 172, 12043 Berlin, +493098393579
 * ? [Kramer Restaurant](https://kramerberlin.com/){:target="_blank"}, Pannierstraße 41, Neukölln
 * ? [Magic John's](https://www.magicjohns.com{:target="_blank"}, Oranienburger Str. 48,  10117  Berlin
 * ? [MAngiare Pizza](https://arminiusmarkthalle.com/marktstaende/mangiare-berlin/){:target="_blank"}, Arminiusstraße 2-4, 10551 Berlin, 0152 14493604
