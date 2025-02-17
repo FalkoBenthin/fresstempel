@@ -33,8 +33,8 @@
 * ? [Gazzo Pizza](https://de.gazzopizza.com/){:target="_blank"}, Hobrechtstrasse 57, 12047 Berlin, 03098370104
 * ? [Jemenitisches Restautant Neukölln](https://www.jemenrestaurant.de/neukoelln/){:target="_blank"}, Kar-Marx-Str. 172, 12043 Berlin, +493098393579
 * ? [Kramer Restaurant](https://kramerberlin.com/){:target="_blank"}, Pannierstraße 41, Neukölln
-* ? [Magic John's](https://www.magicjohns.com{:target="_blank"}, Oranienburger Str. 48,  10117  Berlin
-* ? [MAngiare Pizza](https://arminiusmarkthalle.com/marktstaende/mangiare-berlin/){:target="_blank"}, Arminiusstraße 2-4, 10551 Berlin, 0152 14493604
+* ? [Magic John's](https://www.magicjohns.com){:target="_blank"}, Oranienburger Str. 48,  10117  Berlin
+* ? [Mangiare Pizza](https://arminiusmarkthalle.com/marktstaende/mangiare-berlin/){:target="_blank"}, Arminiusstraße 2-4, 10551 Berlin, 0152 14493604
 * ? [Masselli Ristorante](https://maselliristorante.weebly.com/){:target="_blank"}, Nositzstraße 49, Kreuzberg
 * ? [Mibap](https://mibap.berlin/en){:target="_blank"}, Torstraße 22, Prenzlauer Berg
 * ? [Noosh](https://www.instagram.com/noosh_berlin/?hl=de){:target="_blank"}, Kantstraße 143, 10623 Berlin, 030 31999980 (http://www.noosh.berlin/)
