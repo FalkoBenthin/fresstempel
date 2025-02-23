@@ -6,6 +6,7 @@
 * [cafe Bilderbuch](https://www.cafe-bilderbuch.de/){:target="_blank"}, ab 9:00 Uhr, Akazienstr. 28, 10823 Berlin
 * [Cafe Butter](https://www.cafe-butter.de/){:target="_blank"}, ab 9:00 Uhr, Pappelallee 73, 10437 Berlin
 * ? [Die Stulle](https://www.die-stulle.com/){:target="_blank"}, ab 9:00 Uhr, Carmerstrasse 10, 10623 Berlin Charlottenburg
+* ? Desi Diner, Thiemannstr. 1, Neukölln, ab 7:30
 * ? [Moabar](https://www.moabar.com/fruehstueck/){:target="_blank"}, ab 9:00 Uhr, Kirchstraße 1, 10557 Berlin/Moabit
 * Schwarzes, ab 8:00
 
@@ -27,11 +28,12 @@
 * [Buchkantine](https://buchkantine.de/){:target="_blank"}, Dortmunder Str. 1, 10555 Berlin
 * [Cafe Finovo](http://www.cafe-finovo.de/){:target="_blank"}, Alter St.-Matthäus-Kirchhof, Großgörschenstr. 12-14, 10 829 Berlin
 * (-) [Comedor](https://www.comedor.berlin/){:target="_blank"}, Kantstr. 74, 10627 Berlin, ​+49 (0) 30 740 74549, lecker und guter Service, aber wenig Essen für viel Geld
+* ? Falafel in Berlin, Skalitzer Str. 102, Kreuzberg
 * [Fam Dang](https://www.gastro-now.com/famdang){:target="_blank"}, Torstraße 125, 10119 Berlin, das sind die aus der Huttenstraße
 * ? [RESTAURANT D.O.](https://www.do-restaurant.com){:target="_blank"}, Kollwitzstraße 88, 10435 Berlin, +49 (0)30 52103950
 * ? [Dolores Burritos](https://dolores-burritos.de/){:target="_blank"}, Bayreuther Str. 36 (Am Wittenbergplatz, Schöneberg), 10789 Berlin
 * ? [Gazzo Pizza](https://de.gazzopizza.com/){:target="_blank"}, Hobrechtstrasse 57, 12047 Berlin, 03098370104
-* ? [Jemenitisches Restautant Neukölln](https://www.jemenrestaurant.de/neukoelln/){:target="_blank"}, Kar-Marx-Str. 172, 12043 Berlin, +493098393579
+* [Jemenitisches Restautant Neukölln](https://www.jemenrestaurant.de/neukoelln/){:target="_blank"}, Kar-Marx-Str. 172, 12043 Berlin, +493098393579
 * ? [Kramer Restaurant](https://kramerberlin.com/){:target="_blank"}, Pannierstraße 41, Neukölln
 * ? [Magic John's](https://www.magicjohns.com){:target="_blank"}, Oranienburger Str. 48,  10117  Berlin
 * ? [Mangiare Pizza](https://arminiusmarkthalle.com/marktstaende/mangiare-berlin/){:target="_blank"}, Arminiusstraße 2-4, 10551 Berlin, 0152 14493604
@@ -56,6 +58,7 @@
   * Charlottenburg,  schlÜterstraße 63, 10625 berlin, 030 / 32764310
   * Kreuzberg, Prinzenstraße 89, 10969 berlin, 030 / 39916790
 * ? [Trio](https://trioberlin.webflow.io/){:target="_blank"}, Linienstraße 13, Mitte, sehr rudimentäre Webseite
+* ? Gaststätte W. Prassnik, Torstr. 65, Mitte
 * ? [Zum heiligen Teufel](https://zumheiligenteufel.de/){:target="_blank"}, Muskauer Straße 9, Kreuzberg, falls man in der Nähe ist, erstmal angucken
 
 ### Potsdam
