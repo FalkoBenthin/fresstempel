@@ -35,6 +35,7 @@
 * ? [Gazzo Pizza](https://de.gazzopizza.com/){:target="_blank"}, Hobrechtstrasse 57, 12047 Berlin, 03098370104
 * [Jemenitisches Restautant Neukölln](https://www.jemenrestaurant.de/neukoelln/){:target="_blank"}, Kar-Marx-Str. 172, 12043 Berlin, +493098393579
 * ? [Kramer Restaurant](https://kramerberlin.com/){:target="_blank"}, Pannierstraße 41, Neukölln
+* ? [Lon Men's Noodle House](https://lonmen.eatbu.com/?lang=de){:target="_blank"}, Kantstraße 33, 10625 Berlin, Kantstraße 33, 10625 Berlin
 * ? [Magic John's](https://www.magicjohns.com){:target="_blank"}, Oranienburger Str. 48,  10117  Berlin
 * ? [Mangiare Pizza](https://arminiusmarkthalle.com/marktstaende/mangiare-berlin/){:target="_blank"}, Arminiusstraße 2-4, 10551 Berlin, 0152 14493604
 * ? [Masselli Ristorante](https://maselliristorante.weebly.com/){:target="_blank"}, Nositzstraße 49, Kreuzberg
@@ -103,9 +104,11 @@
 * Fasanen 47, Fasanenstraße 47, Wilmersdorf
 * [So 'ne ART SALON](https://www.soneartsalon.berlin/){:target="_blank"}, Bundesallee 83,  12161 Berlin-Friedenau, Telephon   0178 696 58 67   /   Email   bureau@soneArtSalon.berlin
 * [Voima](http://www.voima.de/){:target="_blank"}, Winterfeldtstraße 22, Schöneberg
+* [Fabelei](https://fabelei.com/){:target="_blank"}, KYFFHÄUSERSTR. 21 (CORNER), 10781 BERLIN, +49 (0)30 2085 9200
+  
 ### Potsdam
 * [Bar-o-Meter](https://barometer.eatbu.com/?lang=de){:target="_blank"}, Gutenbergstraße 103, 14467 Potsdam
-* [Downtown](https://downtown-potsdam.de/){:target="_blank"}, Dortustrasse 8, 14467 Potsdam 
+* [Downtown](https://downtown-potsdam.de/){:target="_blank"}, Dortustrasse 8, 14467 Potsdam
 
 ***
 
