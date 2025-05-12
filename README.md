@@ -102,7 +102,7 @@
 # Bars
 ### Berlin
 * Fasanen 47, Fasanenstraße 47, Wilmersdorf
-* [So 'ne ART SALON](https://www.soneartsalon.berlin/){:target="_blank"}, Bundesallee 83,  12161 Berlin-Friedenau, Telephon   0178 696 58 67   /   Email   bureau@soneArtSalon.berlin
+* [So 'ne ART SALON](https://www.soneart-salon.de/){:target="_blank"}, Bundesallee 83,  12161 Berlin-Friedenau, Telephon   0178 696 58 67   /   Email   bureau@soneArtSalon.berlin
 * [Voima](http://www.voima.de/){:target="_blank"}, Winterfeldtstraße 22, Schöneberg
 * [Fabelei](https://fabelei.com/){:target="_blank"}, KYFFHÄUSERSTR. 21 (CORNER), 10781 BERLIN, +49 (0)30 2085 9200
   
